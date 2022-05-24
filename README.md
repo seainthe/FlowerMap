@@ -1,6 +1,6 @@
 # Flower Map
 
-# Go to Play :: [Flower Map](https://taeminchoe.github.io/Flower-map/).
+# Go to Play :: [Flower Map](https://taeminchoe.github.io/Flower-map/)
 
 
 
